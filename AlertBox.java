@@ -1,5 +1,3 @@
-package newjavaexp;
-
 import javax.swing.JOptionPane;
 
 public class AlertBox {
